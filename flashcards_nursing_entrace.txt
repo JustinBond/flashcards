@@ -1,0 +1,130 @@
+Cohesion
+Stick to itself
+Adhesion
+Stick to other substances 
+Saccharides
+Carbohydrates - short term energy
+Lipids
+Hydrophobic low-oxygen molecules that store energy 
+Fatty acid
+Simple type of lipid, often converted carbs
+Triglycerides 
+Lipid made of three fatty acids
+Phospholipid
+Lipid that repels water at tail, attracts at head, bilayer used for membranes
+Steroids
+Cholesterol (used for cell membranes) and other derivatives like sex hormones. 
+Proteins
+Organic molecules that catalyze reactions or provide structural support so cells can survive and reproduce
+Hormonal protein
+Chemical messengers like insulin and glucagon 
+Structural protein
+provides physical support to cells (collagen, keratin, cytoskeleton)
+Contractile protein
+Enables cellular movement, like actin and myosin in muscle
+Antibodies
+Proteins that provide immune defense like immunoglobulin and interferons
+Enzymes 
+Proteins that catalyze reactions like amylase, lipase, ATPase
+Nucleic acids
+Information molecules like RNA and DNA
+Genome
+The full set  of chromosomes for an organism
+Adenosine triphosphate 
+Full name for ATP (cellular energy source)
+Cellular respiration 
+Creating ATP from food, typically glucose
+ATP mechanisms
+Glycolysis, Krebs cycle and electron transport chain
+Glycolysis 
+Anaerobic metabolic pathway that gets ATP from glucose
+Metabolic pathway 
+Linked biochemical reactions for common purpose
+Fermentation 
+Anaerobic process to regenerate NAD+ from NADH
+Aerobic respiration
+Continue glycolysis aerobically (in mitochondria) with Krebs Cycle and electron transport
+Autotroph
+Self-feeding organisms such as plants
+Photosynthesis
+Using energy from the sun to make glucose
+Chloroplast 
+Organelle in plant cells that does photosynthesis 
+Mesophyll
+Green tissue in plants that does photosynthesis 
+Stomata
+Pores in leads to allow CO2 and Oxygen interchange
+Stroma 
+Fluid in inner membrane of chloroplast
+Genes
+Encoding of physical traits
+Transcription 
+Create complementary gene sequence (of DNA) in RNA
+Translation
+Create protein from RNA
+Nucleotides
+Building block of DNA - adenine, guanine, thymine, cytosine 
+Nucleotide pairs
+Adenine with thymine, cytosine with guanine 
+DNA
+Double stranded polymer built from nucleotides
+Central dogma
+DNA for physical traits, replicated from existing DNA, transcribed to RNA, which is translated to protein 
+Genetic code
+Sequence of codons (three nucleotides) in DNA/RNA that encode amino acids or stop signals
+mutation
+When nucleotides are added, deleted, or changed
+RNA
+Single stranded nucleic acid with ribose backbone instead of deoxyribose 
+RNA types
+Messenger RNA, ribosomal RNA, transfer RNA
+Cell theory
+All living things made of cells, which are primary unit, and arise from existing cells
+Prokaryote 
+Simple Unicellular organism with no membrane bound organelles
+Prokaryote examples
+Archaebacteria and eubacteria
+Prokaryote features
+No nucleus, single circular DNA in nucleoid region and conduct respiration in cell membrane
+Archaebacteria 
+Prokaryotes that typically live in extreme environments without oxygen 
+Eukaryotic cells
+Cells with organelles used by protists, yeasts, algae and multicellular life 
+Plasma membrane
+Selectively permeable cell membrane
+Organelles 
+Membrane-bound structures in cells that carry out specific functions, like nucleus and mitochondria 
+Nucleus
+Large organelle that stores DNA
+Neucleolus
+Dense structure in nucleus that makes rRNA synthesis occurs 
+Histones 
+Protein that packages DNA and regulates access to genes
+Chromatin
+DNA packaged with histones
+Ribosomes 
+Site of protein construction (RNA translation). Not an organelle.
+Ribosome structure 
+Two subunits, one large, one small
+Endoplasmic reticulum
+Network of membrane-enclosed tubules/sacs connected to nucleus. Rough and Smooth types.
+Rough v smooth endoplasmic reticulum
+Whether ribosomes line outer surface. Rough for protein synthesis, smooth for lipid synthesis and detox 
+bound ribosomes
+Bound ribosomes make proteins secreted from cell or for organelles or cell membrane
+free ribosomes
+free ribosomes make proteins for use cell's cytoplasm
+Cisernea
+Interior of rough endoplasmic reticulum 
+Golgi apparatus
+Stack of membrane-enclosed sacs that receive membrane-bound vesicles and modify, repackage, and ship proteins
+Lysosomes 
+Organelle with enzymes for intracellular digestion
+Microbodies
+Specialized organelle for containing metabolic reactions
+Peroxisome 
+Microbody that breaks down fats, also detoxifying compounds like alcohol
+Glyoxysomes
+Microbody that convert fats to sugars for plants too young for photosynthesis 
+Vacuoles
+Membrane-enclosed sacs, typically non-animals with functions for pressure, ph and more. 

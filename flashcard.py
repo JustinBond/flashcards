@@ -2,6 +2,7 @@ import random
 import signal
 import sys
 import math
+import time
 
 # the number of times a wrong card is reinserted back into the queue
 WRONG_REINSERTIONS = 2
@@ -10,6 +11,14 @@ class FlashcardState:
     def __init__(self):
         self.question_count = 0
         self.correct_count = 0
+        self.start_time = time.time()
+
+    def get_elapsed_time(self):
+        """Return elapsed time in a formatted string."""
+        elapsed = time.time() - self.start_time
+        minutes = int(elapsed // 60)
+        seconds = int(elapsed % 60)
+        return f"{minutes}:{seconds:02d}"
 
 def load_flashcards(filename):
     """Load flashcards from a file, handling all errors and returning None on failure."""
@@ -18,7 +27,7 @@ def load_flashcards(filename):
         with open(filename, 'r', encoding='utf-8') as file:
             lines = [line.strip() for line in file if line.strip()]
             if len(lines) % 2 != 0:
-                raise ValueError("File must have term + definition pairs.")
+                raise ValueError("Flashcard file must be even number (for term + definition pairs).")
             for i in range(0, len(lines), 2):
                 flashcards[lines[i]] = lines[i + 1]
         if not flashcards:
@@ -38,6 +47,7 @@ def flashcard_app():
     def handle_ctrl_c(signal_num, frame):
         print("\nQuitting!")
         print(f"You answered {state.correct_count} of {state.question_count} questions correctly.")
+        print(f"Time taken: {state.get_elapsed_time()}")
         sys.exit(0)
     
     signal.signal(signal.SIGINT, handle_ctrl_c)
@@ -87,6 +97,7 @@ def flashcard_app():
     if not queue:
         print("\nCongrats! You mastered all the flashcards!")
         print(f"You answered {state.correct_count} of {state.question_count} questions correctly.")
+        print(f"Time taken: {state.get_elapsed_time()}")
 
 if __name__ == "__main__":
     flashcard_app()
